@@ -11,5 +11,5 @@ source "https://rubygems.org"
 # and delete the lines below.
 
 gem "jekyll"
-
+gem "kramdown-parser-gfm"
 gem "webrick", "~> 1.7"
