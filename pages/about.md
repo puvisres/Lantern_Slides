@@ -10,8 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="vs_ls_009" %}
 
-{% include feature/nav-menu.html sections="About Magic Lantern; Installation in Green Hall" %}
-
+{% include feature/nav-menu.html sections="Magic Lantern;Installation in Green Hall"%}
 
 
 # Magic Lantern: 
@@ -44,5 +43,5 @@ Before the digital image fundamentally changed the visual copy–and the way we 
  <p>
  <a href="https://visualresources.princeton.edu/" style="color:#e77500;"> Visual Resources</a> 
  </p>
- 
+
 {% include feature/video.html objectid="" %}
