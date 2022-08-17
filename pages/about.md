@@ -44,4 +44,3 @@ Before the digital image fundamentally changed the visual copy–and the way we 
  <a href="https://visualresources.princeton.edu/" style="color:#e77500;"> Visual Resources</a> 
  </p>
 
-{% include feature/video.html objectid="" %}
